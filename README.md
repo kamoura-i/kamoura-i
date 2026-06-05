@@ -88,21 +88,18 @@ Me chamo Kaique Moura e estou cursando Engenharia de Software na FIAP, em São P
 ---
 
 ### 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="GitHub Streak" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kamoura-i&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://streak-stats.demolab.com?user=kamoura-i&theme=tokyonight&hide_border=true&locale=pt_BR" 
   />
-
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamoura-i&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    align="left" 
+    alt="Linguagens mais usadas" 
+    height="200" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamoura-i&theme=tokyonight" 
   />
-
 </p>
