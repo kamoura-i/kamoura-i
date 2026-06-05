@@ -82,8 +82,8 @@ Me chamo Kaique Moura e estou cursando Engenharia de Software na FIAP, em São P
 
 ### 🚀 Projetos em Destaque
 
-- 🛰 **[SpaceFarm](https://github.com/kamoura-i)** — Sistema de monitoramento agrícola via satélite. Global Solution FIAP, tema Space. `HTML` `CSS` `JS`
-- 📸 **JOVI** — App de organização de fotos acadêmicas com IA. Projeto Hello World Corporation / FIAP.
+- 🛰 **[SpaceFarm](https://github.com/kamoura-i/Web-Dev-GS)** — Sistema de monitoramento agrícola via satélite. Global Solution FIAP, tema Space. `HTML` `CSS` `JS`
+- 📸 **[JOVI](https://github.com/kamoura-i/SPRINT2_WEB)** — App de organização de fotos acadêmicas com IA. Projeto Hello World Corporation / FIAP.
 
 ---
 
