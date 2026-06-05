@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Kaique Moura
 
-**`Desenvolvedor em Formação (Frontend/Python)`**
+**`Desenvolvedor em Formação`**
 
 Me chamo Kaique Moura e estou cursando Desenvolvimento de Software na FIAP, em São Paulo. Apaixonado por construir interfaces web e explorar soluções que unem tecnologia e criatividade. Nas horas vagas, toco guitarra 🎸
 
